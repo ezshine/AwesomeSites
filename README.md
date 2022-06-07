@@ -2,13 +2,16 @@
 
 > 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。
 
-- [leap-for-mankind.com](https://github.com/ezshine/AwesomeSite-leap-for-mankind.com)
-- [persepolis.getty.edu](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu)
-- [bruno-simon.com](https://github.com/ezshine/Awesome-Three.js-Sites01)
-- [microwaver59.com](https://github.com/ezshine/Awesome-Three.js-Sites01)
-- [david-hckh.com](https://github.com/ezshine/Awesome-Three.js-Sites01)
-- [therace.montblanclegend.com](https://github.com/ezshine/Awesome-Three.js-Sites01)
-
+||||
+|-|-|-|
+|url|backup|tags|
+|leap-for-mankind.com|[github](https://github.com/ezshine/AwesomeSite-leap-for-mankind.com)|`three.js`|
+|persepolis.getty.edu|[github](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu)||
+|bruno-simon.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `profolio`|
+|microwaver59.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
+|david-hckh.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `profolio`|
+|therace.montblanclegend.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
+||||
 
 
 
