@@ -12,7 +12,7 @@
 |david-hckh.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `profolio`|
 |therace.montblanclegend.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 |atmos.leeroy.ca|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
-|choochooworld.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
+|choochooworld.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 ||||
 
 
