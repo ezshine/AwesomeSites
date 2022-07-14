@@ -15,9 +15,14 @@
 |choochooworld.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 |exp-my-little-storybook.lusion.co|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 |operanorth.co.uk/turn-of-the-screw-immersive-trailer|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
-|exp-gemini.lusion.co|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
+|exp-gemini.lusion.co|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `car`|
 |maxmara-bearinggifts.betteringbrands.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
 |exp-infinite-passerella.lusion.co|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
+|yelloworld.pinkyellow.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
+|lamborghini.com/cn-en/3d|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `car`|
+|guccibelovedbounce.gucci.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
+|www.foosballworldcup18.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
+|play.gl|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 ||||
 
 
