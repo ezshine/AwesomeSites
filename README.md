@@ -23,6 +23,7 @@
 |guccibelovedbounce.gucci.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 |www.foosballworldcup18.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
 |play.gl|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js` `game`|
+|hennessy-house-of-moves.hello-jury.com|[github](https://github.com/ezshine/Awesome-Three.js-Sites01)|`three.js`|
 ||||
 
 
