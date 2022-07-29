@@ -46,6 +46,7 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - interview.ueno.co
 - www.chocapic-nutri-game.fr
 - www.vw.com.mx
+- iwantitall.msi.com
 
 
 ## 联系作者
