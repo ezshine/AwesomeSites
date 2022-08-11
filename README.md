@@ -52,6 +52,11 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - www.vw.com.mx
 - iwantitall.msi.com
 
+### AwesomeSites-Pack02
+https://github.com/ezshine/AwesomeSites-Pack02
+
+- exp-abduction.lusion.co
+- media-facade.shiftlink.tech
 
 ## 联系作者
 
