@@ -58,6 +58,9 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - exp-abduction.lusion.co
 - media-facade.shiftlink.tech
 
+### dddance.party
+https://github.com/ezshine/AwesomeSite-dddance.party
+
 ## 联系作者
 
 <p>
