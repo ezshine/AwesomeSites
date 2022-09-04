@@ -59,6 +59,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - media-facade.shiftlink.tech
 - letsplay.ouigo.com
 - neal.fun/design-the-next-iphone
+- lr.doesbook.kr
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
