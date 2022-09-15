@@ -64,6 +64,9 @@ https://github.com/ezshine/AwesomeSites-Pack02
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
 
+### 同济大学设计创意学院2022毕展
+https://github.com/ezshine/AwesomeSites-tjdi-exhibition
+
 ## 联系作者
 
 <p>
