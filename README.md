@@ -59,6 +59,8 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - letsplay.ouigo.com
 - neal.fun/design-the-next-iphone
 - lr.doesbook.kr
+- truesource.evian.com
+- ellometay33art
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
