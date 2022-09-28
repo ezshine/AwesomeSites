@@ -62,6 +62,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - truesource.evian.com
 - ellometay33art
 - www.thepleasurepursuit.com
+- vrshow-oss.dt-space.cn
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
