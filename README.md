@@ -61,6 +61,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - lr.doesbook.kr
 - truesource.evian.com
 - ellometay33art
+- www.thepleasurepursuit.com
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
