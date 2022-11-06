@@ -1,9 +1,10 @@
 # AwesomeSites
 
-> 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。
+> 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。特别大的项目（超过100MB）会独立建立保存仓库，中小型项目按照分类存放于`pack`中。
+
 ## 使用方法
 
-进入网站域名文件夹后开启`live-server`或其他的本地http服务后即可离线运行。
+所有收录的网站都可以离线运行，进入网站域名文件夹后开启`live-server`或其他的本地http服务后即可离线运行。
 
 
 ## 项目仓库
@@ -67,12 +68,16 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - webgi-jewelry.vercel
 - wonderland
 - vrseat.vercel
+- adobexbowie75.com
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
 
 ### 同济大学设计创意学院2022毕展
 https://github.com/ezshine/AwesomeSites-tjdi-exhibition
+
+### 抖音汽车嘉年华2022
+https://github.com/ezshine/AwesomeSites-douyin_carnival_2022
 
 ## 联系作者
 
