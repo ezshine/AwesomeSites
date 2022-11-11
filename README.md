@@ -79,6 +79,10 @@ https://github.com/ezshine/AwesomeSites-tjdi-exhibition
 ### 抖音汽车嘉年华2022
 https://github.com/ezshine/AwesomeSites-douyin_carnival_2022
 
+### themagicalpantry.com
+https://github.com/ezshine/AwesomeSites-themagicalpantry.com
+
+
 ## 联系作者
 
 <p>
