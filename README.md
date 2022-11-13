@@ -51,6 +51,8 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - www.chocapic-nutri-game.fr
 - www.vw.com.mx
 - iwantitall.msi.com
+- au-floor.vercel.app
+- avatarbuilder
 
 ### AwesomeSites-Pack02
 https://github.com/ezshine/AwesomeSites-Pack02
