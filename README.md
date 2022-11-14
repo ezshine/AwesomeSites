@@ -63,6 +63,7 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - iwantitall.msi.com
 - au-floor.vercel.app
 - avatarbuilder
+- www.fendi.com/baguette25
 
 ### AwesomeSites-Pack02
 https://github.com/ezshine/AwesomeSites-Pack02
