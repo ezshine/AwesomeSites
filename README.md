@@ -82,6 +82,8 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - wonderland
 - vrseat.vercel
 - adobexbowie75.com
+- playyourpower.narscosmetics.com
+- slowroads.io
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
