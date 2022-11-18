@@ -84,6 +84,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - adobexbowie75.com
 - playyourpower.narscosmetics.com
 - slowroads.io
+- www.thefemalegaze.art
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
