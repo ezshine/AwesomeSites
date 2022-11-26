@@ -86,6 +86,11 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - slowroads.io
 - www.thefemalegaze.art
 
+### AwesomeSites-Pack03
+https://github.com/ezshine/AwesomeSites-Pack03
+
+- www.hape.io
+
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
 
