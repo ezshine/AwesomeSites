@@ -90,6 +90,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 https://github.com/ezshine/AwesomeSites-Pack03
 
 - www.hape.io
+- cleo.show
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
