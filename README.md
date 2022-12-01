@@ -91,6 +91,7 @@ https://github.com/ezshine/AwesomeSites-Pack03
 
 - www.hape.io
 - cleo.show
+- www.themagicalpantry.com
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
