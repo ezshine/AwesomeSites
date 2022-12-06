@@ -103,3 +103,6 @@ https://github.com/ezshine/AwesomeSites-douyin_carnival_2022
 
 ### themagicalpantry.com
 https://github.com/ezshine/AwesomeSites-themagicalpantry.com
+
+### 工商银行元宇宙2022
+https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse
