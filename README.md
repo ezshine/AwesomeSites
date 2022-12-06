@@ -17,6 +17,10 @@
   
 </p>
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date)](https://star-history.com/#ezshine/AwesomeSites&Date)
+
 ## 项目仓库目录
 
 ### leap-for-mankind.com
