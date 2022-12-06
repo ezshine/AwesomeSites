@@ -1,5 +1,7 @@
 # AwesomeSites
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date)](https://star-history.com/#ezshine/AwesomeSites&Date)
+
 > 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。特别大的项目（超过100MB）会独立建立保存仓库，中小型项目按照分类存放于`pack`中。
 
 ## 使用方法
@@ -16,10 +18,6 @@
 [![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack)
   
 </p>
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date)](https://star-history.com/#ezshine/AwesomeSites&Date)
 
 ## 项目仓库目录
 
