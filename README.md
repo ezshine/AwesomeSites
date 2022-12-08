@@ -95,6 +95,10 @@ https://github.com/ezshine/AwesomeSites-Pack03
 - cleo.show
 - futureofbeauty.loreal.com
 - sigmasoftwarelabs.com
+- renaudrohlinger.com
+- party.wearezizo.com
+- akinokogomi.vercel.app/
+- wearezizo.com
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
