@@ -99,6 +99,8 @@ https://github.com/ezshine/AwesomeSites-Pack03
 - party.wearezizo.com
 - akinokogomi.vercel.app/
 - wearezizo.com
+- rainforest.arkivert.no
+- coastalworld.com
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
