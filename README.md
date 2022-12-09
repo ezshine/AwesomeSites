@@ -116,3 +116,6 @@ https://github.com/ezshine/AwesomeSites-themagicalpantry.com
 
 ### 工商银行元宇宙2022
 https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse
+
+### iconicmints.wsjbarrons.com
+https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com
