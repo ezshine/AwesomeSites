@@ -101,6 +101,9 @@ https://github.com/ezshine/AwesomeSites-Pack03
 - wearezizo.com
 - rainforest.arkivert.no
 - coastalworld.com
+- technology.panasonic.eu
+- popmart2022
+- oppo_innoday2021
 
 ### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
