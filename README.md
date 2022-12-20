@@ -1,8 +1,8 @@
 # AwesomeSites
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date)](https://star-history.com/#ezshine/AwesomeSites&Date)
+> 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。特别大的项目（超过100MB）会独立建立保存仓库，中小型项目按照分类存放于`pack`中。此仓库收藏的网站总量将非常大，会继续坚持收录，小伙伴们别忘了点个follow。https://github.com/ezshine
 
-> 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。特别大的项目（超过100MB）会独立建立保存仓库，中小型项目按照分类存放于`pack`中。
+<img src='https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date' style='width:500px;height:auto'/>
 
 ## 使用方法
 
