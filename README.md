@@ -66,6 +66,7 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - au-floor.vercel.app
 - avatarbuilder
 - www.fendi.com/baguette25
+- njcb.gotin.online
 
 ### AwesomeSites-Pack02
 https://github.com/ezshine/AwesomeSites-Pack02
