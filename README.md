@@ -109,6 +109,8 @@ https://github.com/ezshine/AwesomeSites-Pack03
 ### AwesomeSites-Pack04
 https://github.com/ezshine/AwesomeSites-Pack04
 
+- www.baiweimeta.cn
+- meta2022.worldaic.com.cn
 
 
 ### dddance.party
