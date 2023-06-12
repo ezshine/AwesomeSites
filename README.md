@@ -48,7 +48,6 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - [play.gl](https://play.gl)
 - [hennessy-house-of-moves.hello-jury.com](https://hennessy-house-of-moves.hello-jury.com)
 - [www.blues-d.co.jp](https://www.blues-d.co.jp)
-- [yelloworld.pinkyellow.com](https://yelloworld.pinkyellow.com)
 - [gleec.com](https://gleec.com)
 - [eyes.nasa.gov](https://eyes.nasa.gov)
 - [webxr-sneakers.lusion.co](https://webxr-sneakers.lusion.co)
@@ -120,7 +119,7 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [www.spaceforce.com](https://www.spaceforce.com)
 - [www.theperfumeshop.com](https://www.theperfumeshop.com)
 - [af1hotel.koikreative.com](https://af1hotel.koikreative.com)
-- [http://www.heyzxz.me/pcol](https://http://www.heyzxz.me/pcol)
+- [http://www.heyzxz.me/pcol](http://www.heyzxz.me/pcol)
 
 
 ### dddance.party
