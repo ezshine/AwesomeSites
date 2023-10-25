@@ -16,6 +16,7 @@
 [![Juejin](https://img.shields.io/badge/dynamic/json?label=稀土掘金&logo=bytedance&logoColor=white&query=%24.data.follower_count&url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Fuser_id%3D2955079655898093)](https://juejin.cn/user/2955079655898093)
 [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
 [![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine)
   
 </p>
 
