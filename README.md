@@ -120,6 +120,7 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [www.theperfumeshop.com](https://www.theperfumeshop.com)
 - [af1hotel.koikreative.com](https://af1hotel.koikreative.com)
 - [http://www.heyzxz.me/pcol](http://www.heyzxz.me/pcol)
+- [haunted.thedigitalpanda.com](http://haunted.thedigitalpanda.com)
 
 
 ### dddance.party
