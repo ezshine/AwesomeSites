@@ -1,14 +1,14 @@
 # AwesomeSites
 
-> 很多精彩的网站随着时间推移很有可能会消失在互联网上，所以我建立了这个仓库，将这些值得学习的网站收藏并备份下来。本仓库只是一个目录。特别大的项目（超过100MB）会独立建立保存仓库，中小型项目按照分类存放于`pack`中。此仓库收藏的网站总量将非常大，会继续坚持收录，小伙伴们别忘了点个follow。https://github.com/ezshine
+> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to collect and backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow https://github.com/ezshine
 
 <img src='https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date' style='width:500px;height:auto'/>
 
-## 使用方法
+## Manual
 
-所有收录的网站都经本人测试可以离线运行，进入网站域名文件夹后开启`live-server`或其他的本地http服务后即可离线运行。
+All the websites included have been tested by me and can run offline. After entering the website's domain folder, simply start a local HTTP server such as `live-server` or any other similar service to run the website offline.
 
-## 联系作者
+## Contact
 
 <p>
 
@@ -21,7 +21,7 @@
   
 </p>
 
-## 项目仓库目录
+## Repositorys
 
 ### leap-for-mankind.com
 https://github.com/ezshine/AwesomeSite-leap-for-mankind.com
