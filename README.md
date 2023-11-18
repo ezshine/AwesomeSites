@@ -125,6 +125,8 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [haunted.thedigitalpanda.com](http://haunted.thedigitalpanda.com)
 - [fragrance.hermes.com](fragrance.hermes.com)
 - [veecon2023game.veefriends.com](veecon2023game.veefriends.com)
+- [impossible-box.web.app](impossible-box.web.app)
+- [thewebshowcase.withgoogle.com](thewebshowcase.withgoogle.com)
 
 
 ### dddance.party
