@@ -127,6 +127,7 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [veecon2023game.veefriends.com](veecon2023game.veefriends.com)
 - [impossible-box.web.app](impossible-box.web.app)
 - [thewebshowcase.withgoogle.com](thewebshowcase.withgoogle.com)
+- [thefabulouscartierjourney.cartier.com](thefabulouscartierjourney.cartier.com)
 
 
 ### dddance.party
