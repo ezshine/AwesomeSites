@@ -31,11 +31,9 @@ https://github.com/ezshine/AwesomeSites-Pack01
 
 |||
 |-|-|
-|![./screenshot/bruno-simon.jpg](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com)||
+|[![./screenshot/bruno-simon.jpg](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com)|[![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com)|[![./screenshot/david-hckh.jpg](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com)|[![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com)|
 
-- [microwaver59.com](https://microwaver59.com)
-- [david-hckh.com](https://david-hckh.com)
-- [therace.montblanclegend.com](https://therace.montblanclegend.com)
+
 - [atmos.leeroy.ca](https://atmos.leeroy.ca)
 - [choochooworld.com](https://choochooworld.com)
 - [exp-my-little-storybook.lusion.co](https://exp-my-little-storybook.lusion.co)
