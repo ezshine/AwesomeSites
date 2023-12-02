@@ -6,7 +6,7 @@
 
 ## Manual
 
-All the collected websites have been tested and fixed by me, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
+All the collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
 
 ## Contact Me
 
