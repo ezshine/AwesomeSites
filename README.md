@@ -1,12 +1,14 @@
-# AwesomeSites
+![./title.jpg](./title.jpg)
 
-> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow me. [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
+---
 
-<img src='https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date' style='width:500px;height:auto'/>
+> Thanks these wonderful website's creator
+
+Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow me. [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
 
 ## Manual
 
-All the collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
+Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
 
 ## Contact Me
 
@@ -24,6 +26,8 @@ All the collected websites have been tested and fixed, all can be running in loc
 ## Repositories
 
 ### Packs
+
+> these website are already categorized.
 
 #### AwesomeSites-Pack01
 
@@ -129,7 +133,7 @@ https://github.com/ezshine/AwesomeSites-Pack04
 
 ### Independent
 
-> these website are bigger than 100MB, so i create a independent repositoy for they.
+> these website are bigger than 100MB, so i create independent repository for them.
 
 #### leap-for-mankind.com
 [![./screenshot/leap-for-mankind.jpg](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com)
@@ -160,3 +164,4 @@ https://github.com/ezshine/AwesomeSites-Pack04
 
 #### iconicmints.wsjbarrons.com
 [![./screenshot/iconicmintswsjbarrons.jpg](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com)
+
