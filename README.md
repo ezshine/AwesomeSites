@@ -37,11 +37,9 @@ https://github.com/ezshine/AwesomeSites-Pack01
 |-|-|-|-|
 | [![./screenshot/bruno-simon.jpg](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com) | [![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com) | [![./screenshot/david-hckh.jpg](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com) | [![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) |
 | [![./screenshot/atmosleeroy.jpg](./screenshot/atmosleeroy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/atmos.leeroy.ca)|[![./screenshot/choochooworld.jpg](./screenshot/choochooworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/choochooworld.com)|[![./screenshot/expmylittlestorybook.jpg](./screenshot/expmylittlestorybook.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/exp-my-little-storybook.lusion.co)|[![./screenshot/turnofthescrewtrailer.jpg](./screenshot/turnofthescrewtrailer.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com)|
+|[![./screenshot/exp-gemini.jpg](./screenshot/exp-gemini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/exp-gemini.lusion.co)|[![./screenshot/maxmara-bearinggifts.jpg](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com)|[![./screenshot/exp-infinite-passerella.jpg](./screenshot/exp-infinite-passerella.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/exhibition/exp-infinite-passerella.lusion.co)|[![./screenshot/yelloworld.jpg](./screenshot/yelloworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/yelloworld.pinkyellow.com)
 
-- [exp-gemini.lusion.co](https://exp-gemini.lusion.co)
-- [maxmara-bearinggifts.betteringbrands.com](https://maxmara-bearinggifts.betteringbrands.com)
-- [exp-infinite-passerella.lusion.co](https://exp-infinite-passerella.lusion.co)
-- [yelloworld.pinkyellow.com](https://yelloworld.pinkyellow.com)
+
 - [lamborghini.com/cn-en/3d](https://lamborghini.com/cn-en/3d)
 - [guccibelovedbounce.gucci.com](https://guccibelovedbounce.gucci.com)
 - [www.foosballworldcup18.com](https://www.foosballworldcup18.com)
