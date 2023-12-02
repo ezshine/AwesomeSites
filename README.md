@@ -1,6 +1,6 @@
 # AwesomeSites
 
-> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to collect and backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow me. [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
+> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow me. [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
 
 <img src='https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date' style='width:500px;height:auto'/>
 
@@ -21,9 +21,9 @@ All the collected websites have been tested and fixed, all can be running in loc
 
 </p>
 
-## Repos
+## Repositories
 
-### Pack
+### Packs
 
 #### AwesomeSites-Pack01
 
@@ -127,36 +127,36 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [thefabulouscartierjourney.cartier.com](thefabulouscartierjourney.cartier.com)
 - [colorfulnight.pha5e.com](colorfulnight.pha5e.com)
 
-### Single
+### Independent
+
+> these website are bigger than 100MB, so i create a independent repositoy for they.
 
 #### leap-for-mankind.com
-
-https://github.com/ezshine/AwesomeSite-leap-for-mankind.com
+[![./screenshot/leap-for-mankind.jpg](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com)
 
 #### persepolis.getty.edu
+[![./screenshot/persepolis-getty.jpg](./screenshot/persepolis-getty.jpg)](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu)
 
-https://github.com/ezshine/AwesomeSite-persepolis.getty.edu
 
 #### dddance.party
+[![./screenshot/dddanceparty.jpg](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party)
 
-https://github.com/ezshine/AwesomeSite-dddance.party
 
 #### 同济大学设计创意学院2022毕展
+[![./screenshot/tjdi-exhibition2022.jpg](./screenshot/tjdi-exhibition2022.jpg)](https://github.com/ezshine/AwesomeSites-tjdi-exhibition)
 
-https://github.com/ezshine/AwesomeSites-tjdi-exhibition
 
 #### 抖音汽车嘉年华2022
+[![./screenshot/douyin-carnival-2022.jpg](./screenshot/douyin-carnival-2022.jpg)](https://github.com/ezshine/AwesomeSites-douyin_carnival_2022)
 
-https://github.com/ezshine/AwesomeSites-douyin_carnival_2022
 
 #### themagicalpantry.com
+[![./screenshot/themagicalpantry.jpg](./screenshot/themagicalpantry.jpg)](https://github.com/ezshine/AwesomeSites-themagicalpantry.com)
 
-https://github.com/ezshine/AwesomeSites-themagicalpantry.com
 
 #### 工商银行元宇宙2022
+[![./screenshot/icbc-bj-miniverse.jpg](./screenshot/icbc-bj-miniverse.jpg)](https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse)
 
-https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse
 
 #### iconicmints.wsjbarrons.com
-
-https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com
+[![./screenshot/iconicmintswsjbarrons.jpg](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com)
