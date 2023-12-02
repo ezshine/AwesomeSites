@@ -1,38 +1,38 @@
 # AwesomeSites
 
-> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to collect and backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow https://github.com/ezshine
+> Many fascinating websites are likely to disappear from the internet over time. That's why I've created this repository to collect and backup these valuable learning websites. This repository serves as a directory where I store and organize these websites. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget to follow me. [![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
 
 <img src='https://api.star-history.com/svg?repos=ezshine/AwesomeSites&type=Date' style='width:500px;height:auto'/>
 
 ## Manual
 
-All the websites included have been tested by me and can run offline. After entering the website's domain folder, simply start a local HTTP server such as `live-server` or any other similar service to run the website offline.
+All the collected websites have been tested and fixed by me, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
 
-## Contact
+## Contact Me
 
 <p>
 
+|Twitter|Wechat|
+|-|-|
+|[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine)|[![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack)|
+
+## Video Channel
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817)
-[![Juejin](https://img.shields.io/badge/dynamic/json?label=稀土掘金&logo=bytedance&logoColor=white&query=%24.data.follower_count&url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Fuser_id%3D2955079655898093)](https://juejin.cn/user/2955079655898093)
-[![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=Github%20Star&logo=github)](https://github.com/ezshine)
-[![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNxA8E0jYm1vGTz0otLh4Lg)
   
 </p>
 
-## Repositorys
+## Repos
 
-### leap-for-mankind.com
-https://github.com/ezshine/AwesomeSite-leap-for-mankind.com
+### Pack
 
-### persepolis.getty.edu
-https://github.com/ezshine/AwesomeSite-persepolis.getty.edu
-
-### AwesomeSites-Pack01
+#### AwesomeSites-Pack01
 https://github.com/ezshine/AwesomeSites-Pack01
 
-- [bruno-simon.com](https://bruno-simon.com)
+|||
+|-|-|
+|![./screenshot/bruno-simon.jpg](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com)||
+
 - [microwaver59.com](https://microwaver59.com)
 - [david-hckh.com](https://david-hckh.com)
 - [therace.montblanclegend.com](https://therace.montblanclegend.com)
@@ -69,7 +69,7 @@ https://github.com/ezshine/AwesomeSites-Pack01
 - [www.fendi.com/baguette25](https://www.fendi.com/baguette25)
 - [njcb.gotin.online](https://njcb.gotin.online)
 
-### AwesomeSites-Pack02
+#### AwesomeSites-Pack02
 https://github.com/ezshine/AwesomeSites-Pack02
 
 - [exp-abduction.lusion.co](https://exp-abduction.lusion.co)
@@ -90,7 +90,7 @@ https://github.com/ezshine/AwesomeSites-Pack02
 - [slowroads.io](https://slowroads.io)
 - [www.thefemalegaze.art](https://www.thefemalegaze.art)
 
-### AwesomeSites-Pack03
+#### AwesomeSites-Pack03
 https://github.com/ezshine/AwesomeSites-Pack03
 
 - [www.hape.io](https://www.hape.io)
@@ -107,7 +107,7 @@ https://github.com/ezshine/AwesomeSites-Pack03
 - [popmart2022](https://popmart2022)
 - [oppo_innoday2021](https://oppo_innoday2021)
 
-### AwesomeSites-Pack04
+#### AwesomeSites-Pack04
 https://github.com/ezshine/AwesomeSites-Pack04
 
 - [www.baiweimeta.cn](https://www.baiweimeta.cn)
@@ -130,20 +130,28 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [thefabulouscartierjourney.cartier.com](thefabulouscartierjourney.cartier.com)
 - [colorfulnight.pha5e.com](colorfulnight.pha5e.com)
 
-### dddance.party
+### Single
+
+#### leap-for-mankind.com
+https://github.com/ezshine/AwesomeSite-leap-for-mankind.com
+
+#### persepolis.getty.edu
+https://github.com/ezshine/AwesomeSite-persepolis.getty.edu
+
+#### dddance.party
 https://github.com/ezshine/AwesomeSite-dddance.party
 
-### 同济大学设计创意学院2022毕展
+#### 同济大学设计创意学院2022毕展
 https://github.com/ezshine/AwesomeSites-tjdi-exhibition
 
-### 抖音汽车嘉年华2022
+#### 抖音汽车嘉年华2022
 https://github.com/ezshine/AwesomeSites-douyin_carnival_2022
 
-### themagicalpantry.com
+#### themagicalpantry.com
 https://github.com/ezshine/AwesomeSites-themagicalpantry.com
 
-### 工商银行元宇宙2022
+#### 工商银行元宇宙2022
 https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse
 
-### iconicmints.wsjbarrons.com
+#### iconicmints.wsjbarrons.com
 https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com
