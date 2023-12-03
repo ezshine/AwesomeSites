@@ -39,26 +39,13 @@ https://github.com/ezshine/AwesomeSites-Pack01
 | [![./screenshot/atmosleeroy.jpg](./screenshot/atmosleeroy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/atmos.leeroy.ca)|[![./screenshot/choochooworld.jpg](./screenshot/choochooworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/choochooworld.com)|[![./screenshot/expmylittlestorybook.jpg](./screenshot/expmylittlestorybook.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/exp-my-little-storybook.lusion.co)|[![./screenshot/turnofthescrewtrailer.jpg](./screenshot/turnofthescrewtrailer.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com)|
 |[![./screenshot/exp-gemini.jpg](./screenshot/exp-gemini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/exp-gemini.lusion.co)|[![./screenshot/maxmara-bearinggifts.jpg](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com)|[![./screenshot/exp-infinite-passerella.jpg](./screenshot/exp-infinite-passerella.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/exhibition/exp-infinite-passerella.lusion.co)|[![./screenshot/yelloworld.jpg](./screenshot/yelloworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/yelloworld.pinkyellow.com)
 |[![./screenshot/pack01-lamborghini.jpg](./screenshot/pack01-lamborghini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/www.lamborghini.com)|[![./screenshot/guccilovedbounce.jpg](./screenshot/guccilovedbounce.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/guccibelovedbounce.gucci.com)|[![./screenshot/foosballworldcup18.jpg](./screenshot/foosballworldcup18.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.foosballworldcup18.com)|[![./screenshot/playgl.jpg](./screenshot/playgl.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/play.gl)|
+|[![./screenshot/hennessy-house-of-moves.jpg](./screenshot/hennessy-house-of-moves.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/hennessy-house-of-moves.hello-jury.com)|[![./screenshot/blues-d.jpg](./screenshot/blues-d.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/www.blues-d.co.jp)|[![./screenshot/gleec.jpg](./screenshot/gleec.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/gleec.com)|[![./screenshot/webxr-sneakers.jpg](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co)|
+|[![./screenshot/showroom-littleworkshop.jpg](./screenshot/showroom-littleworkshop.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/showroom.littleworkshop.fr)|[![./screenshot/au-floor.jpg](./screenshot/au-floor.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/au-floor.vercel.app)|[![./screenshot/iwantitall.jpg](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)|[![./screenshot/chocapic-nutri-game.jpg](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)|
+|[![./screenshot/kodingergoy.jpg](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no)|[![./screenshot/interview-ueno.jpg](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co)|[![./screenshot/madbox-io.jpg](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io)|[![./screenshot/avatarbuilder.jpg](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)|
+|[![./screenshot/lucyhardcastle-thefifthsense.jpg](./screenshot/lucyhardcastle-thefifthsense.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/lucyhardcastle-thefifthsense.i-d.co)|[![./screenshot/windflower.jpg](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz)|[![./screenshot/toyotagazooracing.jpg](./screenshot/toyotagazooracing.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/toyotagazooracing.com)|[![./screenshot/vw-com-mx.jpg](./screenshot/vw-com-mx.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/www.vw.com.mx)|
 
-
-- [hennessy-house-of-moves.hello-jury.com](https://hennessy-house-of-moves.hello-jury.com)
-- [www.blues-d.co.jp](https://www.blues-d.co.jp)
-- [gleec.com](https://gleec.com)
 - [eyes.nasa.gov](https://eyes.nasa.gov)
-- [webxr-sneakers.lusion.co](https://webxr-sneakers.lusion.co)
-- [showroom.littleworkshop.fr](https://showroom.littleworkshop.fr)
-- [wildflower.resn.co.nz](https://wildflower.resn.co.nz)
-- [lucyhardcastle-thefifthsense.i-d.co](https://lucyhardcastle-thefifthsense.i-d.co)
 - [robertsspaceindustries.com/starmap](https://robertsspaceindustries.com/starmap)
-- [madbox.io](https://madbox.io)
-- [kodingergoy.arkivert.no](https://kodingergoy.arkivert.no)
-- [toyotagazooracing.com](https://toyotagazooracing.com)
-- [interview.ueno.co](https://interview.ueno.co)
-- [www.chocapic-nutri-game.fr](https://www.chocapic-nutri-game.fr)
-- [www.vw.com.mx](https://www.vw.com.mx)
-- [iwantitall.msi.com](https://iwantitall.msi.com)
-- [au-floor.vercel.app](https://au-floor.vercel.app)
-- [avatarbuilder](https://avatarbuilder)
 - [www.fendi.com/baguette25](https://www.fendi.com/baguette25)
 - [njcb.gotin.online](https://njcb.gotin.online)
 
