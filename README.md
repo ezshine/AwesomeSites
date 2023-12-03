@@ -39,17 +39,16 @@ If you have any fascinating websites you want to back up, please let me know and
 
 ## Index
 
-* [Games](#Games)
-* [Porfolio](#Porfolio)
+[Game](#Game) [Portfolio](#Portfolio)
 
-## Games
+### Game
 
 |||||
 |-|-|-|-|
 | [![./screenshot/letsplay-ouigo.jpg](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com) |[![./screenshot/slowroads.jpg](./screenshot/slowroads.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/slowroads) |[![./screenshot/playyourpowernarscosmetics.jpg](./screenshot/playyourpowernarscosmetics.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/playyourpower.narscosmetics.com) |[![./screenshot/truesource-evian.jpg](./screenshot/truesource-evian.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/truesource.evian.com) |
 [![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com) |
 
-## Portfolio
+### Portfolio
 
 |||||
 |-|-|-|-|
