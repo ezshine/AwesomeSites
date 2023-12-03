@@ -23,24 +23,39 @@ cd ./AwesomeSites-Pack01/game/choochooworld.com/
 live-server
 ```
 
+## Disclaimer
+
+All website files come from the browser's cache without any hacking techniques. Please do not use any content for your commercial projects. All legal responsibilities arising therefrom shall be borne by the user.
+
 ## Contact Me
 
-> If you have any fascinating websites you want to back up, please let me know and I can crawl them down for you.
+If you have any fascinating websites you want to back up, please let me know and I can crawl them down for you.
 
-| Twitter                                                                                                                                            | Wechat                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine) | [![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack) |
-
-## Video Channel
-
-[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNxA8E0jYm1vGTz0otLh4Lg)
+| Twitter | Youtube | Bilibili | Wechat | 
+| - | - | - | - |
+| [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNxA8E0jYm1vGTz0otLh4Lg) | [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817) | [![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack) |
 
 </p>
 
-## Repositories
+## Index
 
-### Packs
+* [Games](#Games)
+* [Porfolio](#Porfolio)
+
+## Games
+
+|||||
+|-|-|-|-|
+| [![./screenshot/letsplay-ouigo.jpg](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com) |[![./screenshot/slowroads.jpg](./screenshot/slowroads.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/slowroads) |[![./screenshot/playyourpowernarscosmetics.jpg](./screenshot/playyourpowernarscosmetics.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/playyourpower.narscosmetics.com) |[![./screenshot/truesource-evian.jpg](./screenshot/truesource-evian.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/truesource.evian.com) |
+[![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com) |
+
+## Portfolio
+
+|||||
+|-|-|-|-|
+| [![./screenshot/bruno-simon.jpg](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com) | [![./screenshot/david-hckh.jpg](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com) | [![./screenshot/interview-ueno.jpg](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co) | [![./screenshot/madbox-io.jpg](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io) |
+
+## Repositories
 
 > these website are already categorized.
 
