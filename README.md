@@ -53,22 +53,19 @@ https://github.com/ezshine/AwesomeSites-Pack01
 
 https://github.com/ezshine/AwesomeSites-Pack02
 
+|||||
+|-|-|-|-|
+| [![./screenshot/letsplay-ouigo.jpg](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com) |[![./screenshot/slowroads.jpg](./screenshot/slowroads.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/slowroads) |[![./screenshot/playyourpowernarscosmetics.jpg](./screenshot/playyourpowernarscosmetics.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/playyourpower.narscosmetics.com) |[![./screenshot/truesource-evian.jpg](./screenshot/truesource-evian.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/truesource.evian.com) |
+[![./screenshot/adobexbowie.jpg](./screenshot/adobexbowie.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/adobexbowie75.com) |[![./screenshot/vrshow-oss-dt-space.jpg](./screenshot/vrshow-oss-dt-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/car/vrshow-oss.dt-space.cn/showroom) |[![./screenshot/webgi-jewelry.jpg](./screenshot/webgi-jewelry.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/webgi-jewelry.vercel) |[![./screenshot/lr-doesbook.jpg](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) |
+
 - [exp-abduction.lusion.co](https://exp-abduction.lusion.co)
 - [media-facade.shiftlink.tech](https://media-facade.shiftlink.tech)
-- [letsplay.ouigo.com](https://letsplay.ouigo.com)
 - [neal.fun/design-the-next-iphone](https://neal.fun/design-the-next-iphone)
-- [lr.doesbook.kr](https://lr.doesbook.kr)
-- [truesource.evian.com](https://truesource.evian.com)
 - [ellometay33art](https://ellometay33art)
 - [www.thepleasurepursuit.com](https://www.thepleasurepursuit.com)
-- [vrshow-oss.dt-space.cn](https://vrshow-oss.dt-space.cn)
 - [bmwspace](https://bmwspace)
-- [webgi-jewelry.vercel](https://webgi-jewelry.vercel)
 - [wonderland](https://wonderland)
 - [vrseat.vercel](https://vrseat.vercel)
-- [adobexbowie75.com](https://adobexbowie75.com)
-- [playyourpower.narscosmetics.com](https://playyourpower.narscosmetics.com)
-- [slowroads.io](https://slowroads.io)
 - [www.thefemalegaze.art](https://www.thefemalegaze.art)
 
 #### AwesomeSites-Pack03
