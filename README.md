@@ -17,7 +17,7 @@ Many amazing websites may disappear from the internet over time. That's why I cr
 Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
 
 for example
-```node
+```bash
 clone git@github.com:ezshine/AwesomeSites-Pack01.git
 cd ./AwesomeSites-Pack01/game/choochooworld.com/
 live-server
@@ -39,7 +39,7 @@ If you have any fascinating websites you want to back up, please let me know and
 
 ## Index
 
-[Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) 
+[Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) [E-Commerce](#E-Commerce)
 
 
 ### Car
@@ -72,15 +72,26 @@ If you have any fascinating websites you want to back up, please let me know and
 |-|-|-|-|
 | [![./screenshot/adobexbowie.jpg](./screenshot/adobexbowie.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/adobexbowie75.com) | [![./screenshot/showroom-littleworkshop.jpg](./screenshot/showroom-littleworkshop.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/showroom.littleworkshop.fr) | [![./screenshot/hennessy-house-of-moves.jpg](./screenshot/hennessy-house-of-moves.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/hennessy-house-of-moves.hello-jury.com) | [![./screenshot/au-floor.jpg](./screenshot/au-floor.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/au-floor.vercel.app) |
 
+### E-Commerce
+
+|||||
+|-|-|-|-|
+| [![./screenshot/webxr-sneakers.jpg](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co) | [![./screenshot/maxmara-bearinggifts.jpg](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com) | [![./screenshot/webgi-jewelry.jpg](./screenshot/webgi-jewelry.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/webgi-jewelry.vercel) | [![./screenshot/gleec.jpg](./screenshot/gleec.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/gleec.com) |
+
 ### Game
 
 |||||
 |-|-|-|-|
 | [![./screenshot/letsplay-ouigo.jpg](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com) |[![./screenshot/slowroads.jpg](./screenshot/slowroads.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/slowroads) |[![./screenshot/playyourpowernarscosmetics.jpg](./screenshot/playyourpowernarscosmetics.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/playyourpower.narscosmetics.com) |[![./screenshot/truesource-evian.jpg](./screenshot/truesource-evian.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/truesource.evian.com) |
 [![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com) | [![./screenshot/guccilovedbounce.jpg](./screenshot/guccilovedbounce.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/guccibelovedbounce.gucci.com)|[![./screenshot/foosballworldcup18.jpg](./screenshot/foosballworldcup18.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.foosballworldcup18.com)|[![./screenshot/playgl.jpg](./screenshot/playgl.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/play.gl) |
-| [![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) | [![./screenshot/iwantitall.jpg](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)|[![./screenshot/chocapic-nutri-game.jpg](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)|[![./screenshot/kodingergoy.jpg](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no)
+| [![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) | [![./screenshot/iwantitall.jpg](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)|[![./screenshot/chocapic-nutri-game.jpg](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)|[![./screenshot/kodingergoy.jpg](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no) |
 
 
+### Others
+
+|||||
+|-|-|-|-|
+|[![./screenshot/expmylittlestorybook.jpg](./screenshot/expmylittlestorybook.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/exp-my-little-storybook.lusion.co)|[![./screenshot/turnofthescrewtrailer.jpg](./screenshot/turnofthescrewtrailer.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com)| [![./screenshot/avatarbuilder.jpg](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)|[![./screenshot/lucyhardcastle-thefifthsense.jpg](./screenshot/lucyhardcastle-thefifthsense.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/lucyhardcastle-thefifthsense.i-d.co)|[![./screenshot/windflower.jpg](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz)
 
 ## Repositories
 
