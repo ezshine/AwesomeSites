@@ -14,7 +14,7 @@ Many amazing websites may disappear from the internet over time. That's why I cr
 
 <div align="center">
   
-## Manual
+## Usage
 
 </div>
 
@@ -28,11 +28,11 @@ live-server
 ```
 <div align="center">
 
-## Disclaimer
+## Notice
 
 All website files come from the browser's cache without any hacking techniques. Please do not use any content for your commercial projects. All legal responsibilities arising therefrom shall be borne by the user.
 
-## Contact Me
+## Contact
 
 If you have any fascinating websites you want to back up, please let me know and I can crawl them down for you.
 
@@ -46,43 +46,43 @@ If you have any fascinating websites you want to back up, please let me know and
 [Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) [E-Commerce](#E-Commerce)
 
 
-### Car
+## Car
 
 |||||
 |-|-|-|-|
 | [![./screenshot/pack01-lamborghini.jpg](./screenshot/pack01-lamborghini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/www.lamborghini.com) | [![./screenshot/toyotagazooracing.jpg](./screenshot/toyotagazooracing.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/toyotagazooracing.com)|[![./screenshot/vw-com-mx.jpg](./screenshot/vw-com-mx.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/www.vw.com.mx)| [![./screenshot/exp-gemini.jpg](./screenshot/exp-gemini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/exp-gemini.lusion.co) |
 
-### Exhibition
+## Exhibition
 
 |||||
 |-|-|-|-|
 | [![./screenshot/iconicmintswsjbarrons.jpg](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com) | [![./screenshot/tjdi-exhibition2022.jpg](./screenshot/tjdi-exhibition2022.jpg)](https://github.com/ezshine/AwesomeSites-tjdi-exhibition) | [![./screenshot/exp-infinite-passerella.jpg](./screenshot/exp-infinite-passerella.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/exhibition/exp-infinite-passerella.lusion.co) | [![./screenshot/vrshow-oss-dt-space.jpg](./screenshot/vrshow-oss-dt-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/car/vrshow-oss.dt-space.cn/showroom) |
 
-### Portfolio
+## Portfolio
 
 |||||
 |-|-|-|-|
 | [![./screenshot/bruno-simon.jpg](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com) | [![./screenshot/david-hckh.jpg](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com) | [![./screenshot/interview-ueno.jpg](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co) | [![./screenshot/madbox-io.jpg](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io) |
 
-### Metaverse
+## Metaverse
 
 |||||
 |-|-|-|-|
 | [![./screenshot/coastalworld.jpg](./screenshot/coastalworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/metaverse/coastalworld.com) | [![./screenshot/oppoinno2021.jpg](./screenshot/oppoinno2021.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/metaverse/oppo_innoday2021) | [![./screenshot/douyin-carnival-2022.jpg](./screenshot/douyin-carnival-2022.jpg)](https://github.com/ezshine/AwesomeSites-douyin_carnival_2022) | [![./screenshot/icbc-bj-miniverse.jpg](./screenshot/icbc-bj-miniverse.jpg)](https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse) |
 
-### Room
+## Room
 
 |||||
 |-|-|-|-|
 | [![./screenshot/adobexbowie.jpg](./screenshot/adobexbowie.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/adobexbowie75.com) | [![./screenshot/showroom-littleworkshop.jpg](./screenshot/showroom-littleworkshop.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/showroom.littleworkshop.fr) | [![./screenshot/hennessy-house-of-moves.jpg](./screenshot/hennessy-house-of-moves.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/hennessy-house-of-moves.hello-jury.com) | [![./screenshot/au-floor.jpg](./screenshot/au-floor.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/au-floor.vercel.app) |
 
-### E-Commerce
+## E-Commerce
 
 |||||
 |-|-|-|-|
 | [![./screenshot/webxr-sneakers.jpg](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co) | [![./screenshot/maxmara-bearinggifts.jpg](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com) | [![./screenshot/webgi-jewelry.jpg](./screenshot/webgi-jewelry.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/webgi-jewelry.vercel) | [![./screenshot/gleec.jpg](./screenshot/gleec.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/gleec.com) |
 
-### Game
+## Game
 
 |||||
 |-|-|-|-|
@@ -91,7 +91,7 @@ If you have any fascinating websites you want to back up, please let me know and
 | [![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) | [![./screenshot/iwantitall.jpg](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)|[![./screenshot/chocapic-nutri-game.jpg](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)|[![./screenshot/kodingergoy.jpg](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no) |
 
 
-### Others
+## Others
 
 |||||
 |-|-|-|-|
@@ -183,8 +183,6 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [colorfulnight.pha5e.com](colorfulnight.pha5e.com)
 
 ### Independent
-
-> these website are bigger than 100MB, so i create independent repository for them.
 
 #### leap-for-mankind.com
 [![./screenshot/leap-for-mankind.jpg](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com)
