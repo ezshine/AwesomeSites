@@ -1,22 +1,31 @@
+<div align="center">
+
 ![./title.gif](./title.gif)
+
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-93-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
-> Thanks these wonderful website's creator
-
-Many amazing websites may disappear from the internet over time. That's why I created this repository to back up these sites for learning.  
-
-For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget upvote. 
+Many amazing websites may disappear from the internet over time. That's why I created this repository to back up these sites for learning. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget star this repo and upvote in ProductHunt.
 
 <a href="https://www.producthunt.com/posts/awesome-sites?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;sites" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=428032&theme=light" alt="Awesome&#0032;Sites - Back&#0032;up&#0032;those&#0032;amazing&#0032;websites | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+</div>
 
 ## Manual
 
 Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
 
+for example
+```node
+clone git@github.com:ezshine/AwesomeSites-Pack01.git
+cd ./AwesomeSites-Pack01/game/choochooworld.com/
+live-server
+```
+
 ## Contact Me
 
-> If you have any fascinating websites you want backup, please let me know and I can crawl them down for you.
+> If you have any fascinating websites you want to back up, please let me know and I can crawl them down for you.
 
 | Twitter                                                                                                                                            | Wechat                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
