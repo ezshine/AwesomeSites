@@ -6,7 +6,7 @@
 
 ---
 
-Many amazing websites may disappear from the internet over time. That's why I created this repository to back up these sites for learning. For extremely large projects (over 100MB), separate storage repositories are created, while medium and small projects are categorized and stored in the 'pack' directory. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget star this repo and upvote in ProductHunt.
+Many amazing websites may disappear from the internet over time. That's why I created this repository to backup these sites for learning front-end technoledges and inspire our creativity. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget star this repo and upvote in ProductHunt.
 
 <a href="https://www.producthunt.com/posts/awesome-sites?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;sites" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=428032&theme=light" alt="Awesome&#0032;Sites - Back&#0032;up&#0032;those&#0032;amazing&#0032;websites | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -18,7 +18,7 @@ Many amazing websites may disappear from the internet over time. That's why I cr
 
 </div>
 
-Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
+Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server (e.g. `live-server`)  to run the website offline.
 
 for example
 ```bash
