@@ -1,12 +1,14 @@
 <div align="center">
 
+![Static Badge](https://img.shields.io/badge/English-blue) [![Static Badge](https://img.shields.io/badge/中文-grey)](./README_cn.md)
+
 ![./title.gif](./title.gif)
 
 ![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-94-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
-Many amazing websites may disappear from the internet over time. That's why I created this repository to backup these sites for learning front-end technoledges and inspire our creativity. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget star this repo and upvote in ProductHunt.
+Many amazing websites may disappear from the internet over time. That's why I created this repository to backup these sites for learning front-end technoledges and inspire our creativity. The number of websites collected in this repository will be substantial, and I will continue to add more. Don't forget star this repo and upvote in `ProductHunt`.
 
 <a href="https://www.producthunt.com/posts/awesome-sites?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;sites" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=428032&theme=light" alt="Awesome&#0032;Sites - Back&#0032;up&#0032;those&#0032;amazing&#0032;websites | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -34,7 +36,7 @@ All website files come from the browser's cache without any hacking techniques. 
 
 ## Contact
 
-If you have any fascinating websites you want to back up, please let me know and I can crawl them down for you.
+If you have any fascinating websites you want to backup, please let me know and I can crawl them down for you.
 
 | Twitter | Youtube | Bilibili | Wechat | 
 | - | - | - | - |
