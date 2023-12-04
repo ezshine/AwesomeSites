@@ -160,4 +160,5 @@ https://github.com/ezshine/AwesomeSites-Pack04
 - [thewebshowcase.withgoogle.com](thewebshowcase.withgoogle.com)
 - [thefabulouscartierjourney.cartier.com](thefabulouscartierjourney.cartier.com)
 - [colorfulnight.pha5e.com](colorfulnight.pha5e.com)
+- [quentinhocde.com](quentinhocde.com)
 
