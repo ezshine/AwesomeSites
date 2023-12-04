@@ -18,7 +18,7 @@ Many amazing websites may disappear from the internet over time. That's why I cr
 
 </div>
 
-Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as `live-server`  to run the website offline.
+Every collected websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server (such as `live-server`)  to run the website offline.
 
 for example
 ```bash
