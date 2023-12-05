@@ -47,6 +47,9 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 [Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) [E-Commerce](#E-Commerce)
 
+### New This Week
+
+[![./screenshot/quentinhocde.jpg](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
 
 ### Car
 
@@ -65,6 +68,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 |||||
 |-|-|-|-|
 | [![./screenshot/bruno-simon.jpg](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com) | [![./screenshot/david-hckh.jpg](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com) | [![./screenshot/interview-ueno.jpg](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co) | [![./screenshot/madbox-io.jpg](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io) |
+| [![./screenshot/quentinhocde.jpg](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
 
 ### Metaverse
 
@@ -83,7 +87,8 @@ If you have any fascinating websites you want to backup, please let me know and 
 |||||
 |-|-|-|-|
 | [![./screenshot/webxr-sneakers.jpg](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co) | [![./screenshot/maxmara-bearinggifts.jpg](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com) | [![./screenshot/webgi-jewelry.jpg](./screenshot/webgi-jewelry.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/webgi-jewelry.vercel) | [![./screenshot/gleec.jpg](./screenshot/gleec.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/gleec.com) |
-| [![./screenshot/themagicalpantry.jpg](./screenshot/themagicalpantry.jpg)](https://github.com/ezshine/AwesomeSites-themagicalpantry.com)
+| [![./screenshot/themagicalpantry.jpg](./screenshot/themagicalpantry.jpg)](https://github.com/ezshine/AwesomeSites-themagicalpantry.com) | [![./screenshot/baguette25.jpg](./screenshot/baguette25.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/www.fendi.com) | [![./screenshot/vrseat.jpg](./screenshot/vrseat.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/vrseat.vercel) | [![./screenshot/futureofbeauty-loreal.jpg](./screenshot/futureofbeauty-loreal.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/e-commerce/futureofbeauty.loreal.com) |
+| [![./screenshot/technology-panasonic.jpg](./screenshot/technology-panasonic.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/e-commerce/technology.panasonic.eu) |
 
 ### Game
 
@@ -93,43 +98,34 @@ If you have any fascinating websites you want to backup, please let me know and 
 [![./screenshot/microwaver59.jpg](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com) | [![./screenshot/guccilovedbounce.jpg](./screenshot/guccilovedbounce.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/guccibelovedbounce.gucci.com)|[![./screenshot/foosballworldcup18.jpg](./screenshot/foosballworldcup18.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.foosballworldcup18.com)|[![./screenshot/playgl.jpg](./screenshot/playgl.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/play.gl) |
 | [![./screenshot/therace.jpg](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) | [![./screenshot/iwantitall.jpg](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)|[![./screenshot/chocapic-nutri-game.jpg](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)|[![./screenshot/kodingergoy.jpg](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no) |
 
-
 ## Others
 
 |||||
 |-|-|-|-|
 |[![./screenshot/expmylittlestorybook.jpg](./screenshot/expmylittlestorybook.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/exp-my-little-storybook.lusion.co)|[![./screenshot/turnofthescrewtrailer.jpg](./screenshot/turnofthescrewtrailer.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com)| [![./screenshot/avatarbuilder.jpg](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)|[![./screenshot/lucyhardcastle-thefifthsense.jpg](./screenshot/lucyhardcastle-thefifthsense.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/lucyhardcastle-thefifthsense.i-d.co)|[![./screenshot/windflower.jpg](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz)
 | [![./screenshot/atmosleeroy.jpg](./screenshot/atmosleeroy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/atmos.leeroy.ca) | [![./screenshot/yelloworld.jpg](./screenshot/yelloworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/yelloworld.pinkyellow.com) | [![./screenshot/blues-d.jpg](./screenshot/blues-d.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/www.blues-d.co.jp) | [![./screenshot/windflower.jpg](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz) |
-| [![./screenshot/lr-doesbook.jpg](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) | [![./screenshot/leap-for-mankind.jpg](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com) | [![./screenshot/persepolis-getty.jpg](./screenshot/persepolis-getty.jpg)](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu) | [![./screenshot/dddanceparty.jpg](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party) |
+| [![./screenshot/lr-doesbook.jpg](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) | [![./screenshot/persepolis-getty.jpg](./screenshot/persepolis-getty.jpg)](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu) | [![./screenshot/dddanceparty.jpg](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party) | [![./screenshot/robertsspaceindustries-starmap.jpg](./screenshot/robertsspaceindustries-starmap.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/robertsspaceindustries.com) |
+| [![./screenshot/leap-for-mankind.jpg](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com) | [![./screenshot/eyes-nasa-mars2020.jpg](./screenshot/eyes-nasa-mars2020.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/eyes.nasa.gov) | [![./screenshot/media-facade-shiftlink.jpg](./screenshot/media-facade-shiftlink.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/media-facade.shiftlink.tech) | [![./screenshot/design-next-iphone.jpg](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone) |
+| [![./screenshot/thefemalegaze.jpg](./screenshot/thefemalegaze.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thefemalegaze.art) | [![./screenshot/thepleasurepursuit.jpg](./screenshot/thepleasurepursuit.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thepleasurepursuit.com) |
+
+## Only4Mobile
+
+|||||
+|-|-|-|-|
+| [![./screenshot/wonderland.png](./screenshot/wonderland.png)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/wonderland) | [![./screenshot/ellometay33art.png](./screenshot/ellometay33art.png)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/ellometay33art)
 
 </div>
 
-## Unorganized Sites
+## Packs
 
 https://github.com/ezshine/AwesomeSites-Pack01
 
-- [eyes.nasa.gov](https://eyes.nasa.gov)
-- [robertsspaceindustries.com/starmap](https://robertsspaceindustries.com/starmap)
-- [www.fendi.com/baguette25](https://www.fendi.com/baguette25)
-- [njcb.gotin.online](https://njcb.gotin.online)
-
 https://github.com/ezshine/AwesomeSites-Pack02
-
-- [exp-abduction.lusion.co](https://exp-abduction.lusion.co)
-- [media-facade.shiftlink.tech](https://media-facade.shiftlink.tech)
-- [neal.fun/design-the-next-iphone](https://neal.fun/design-the-next-iphone)
-- [ellometay33art](https://ellometay33art)
-- [www.thepleasurepursuit.com](https://www.thepleasurepursuit.com)
-- [bmwspace](https://bmwspace)
-- [wonderland](https://wonderland)
-- [vrseat.vercel](https://vrseat.vercel)
-- [www.thefemalegaze.art](https://www.thefemalegaze.art)
 
 https://github.com/ezshine/AwesomeSites-Pack03
 
 - [www.hape.io](https://www.hape.io)
 - [cleo.show](https://cleo.show)
-- [futureofbeauty.loreal.com](https://futureofbeauty.loreal.com)
 - [sigmasoftwarelabs.com](https://sigmasoftwarelabs.com)
 - [renaudrohlinger.com](https://renaudrohlinger.com)
 - [party.wearezizo.com](https://party.wearezizo.com)
@@ -137,7 +133,6 @@ https://github.com/ezshine/AwesomeSites-Pack03
 - [wearezizo.com](https://wearezizo.com)
 - [rainforest.arkivert.no](https://rainforest.arkivert.no)
 - [coastalworld.com](https://coastalworld.com)
-- [technology.panasonic.eu](https://technology.panasonic.eu)
 - [popmart2022](https://popmart2022)
 - [oppo_innoday2021](https://oppo_innoday2021)
 
