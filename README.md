@@ -47,7 +47,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 [Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) [E-Commerce](#E-Commerce)
 
-### New This Week
+### New in this Week
 
 [![./screenshot/quentinhocde.jpg](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
 
