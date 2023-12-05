@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-95-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-99-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -43,14 +43,14 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNxA8E0jYm1vGTz0otLh4Lg) | [![](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817) | [![](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack) |
 
 
+
+## Daily Show
+
+[![](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)
+
 ## Index
 
-[Metaverse](#Metaverse) [Game](#Game) [Room](#Room) [Car](#Car) [Exhibition](#Exhibition) [Portfolio](#Portfolio) [E-Commerce](#E-Commerce)
-
-
-### New Collected
-
-[![](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
+[· Metaverse](#Metaverse) [· Game](#Game) [· Room](#Room) [· Car](#Car) [· Exhibition](#Exhibition) [· Portfolio](#Portfolio) [· E-Commerce](#E-Commerce) [· Space](#Space) [· Other](#Other)
 
 ### Car
 
@@ -113,7 +113,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 |||||
 |-|-|-|-|
 | [![](./screenshot/spaceforce.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/www.spaceforce.com) | [![](./screenshot/robertsspaceindustries-starmap.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/robertsspaceindustries.com) | [![](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com) | [![](./screenshot/eyes-nasa-mars2020.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/eyes.nasa.gov)
-| [![](./screenshot/sigmasoftwarelabs.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/sigmasoftwarelabs.com)
+| [![](./screenshot/sigmasoftwarelabs.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/sigmasoftwarelabs.com) | [![](./screenshot/issdockingsimulator.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/iss-sim.spacex.com) |
 
 ## Others
 
@@ -124,7 +124,8 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en) | [![](./screenshot/persepolis-getty.jpg)](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu) | [![](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party) | [![](./screenshot/media-facade-shiftlink.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/media-facade.shiftlink.tech) | [![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone) |
 | [![](./screenshot/thefemalegaze.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thefemalegaze.art) | [![](./screenshot/thepleasurepursuit.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thepleasurepursuit.com) | [![](./screenshot/cleoshow.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/cleo.show) | [![](./screenshot/rainforest-arkivert.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/rainforest.arkivert.no) |
 | [![](./screenshot/hape-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/www.hape.io) | [![](./screenshot/renaudrohlinger.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/renaudrohlinger.com) | [![](./screenshot/thewebshowcase-withgoogle.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/thewebshowcase.withgoogle.com) | [![](./screenshot/girlswhocodegirls.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/tools/www.girlswhocodegirls.com) |
-| [![](./screenshot/qqpvp6749.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/pvp.qq.com) | [![](./screenshot/airforce-intothestorm.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/www.airforce.com) | [![](./screenshot/fingerspelling.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/fingerspelling.xyz)
+| [![](./screenshot/qqpvp6749.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/pvp.qq.com) | [![](./screenshot/airforce-intothestorm.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/www.airforce.com) | [![](./screenshot/fingerspelling.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/fingerspelling.xyz) | [![](./screenshot/fwa100-jam3.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/portfolio/fwa100.jam3.com) |
+[![](./screenshot/lionsnews.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/cannesprlions.com) |
 
 ## Only4Mobile
 
@@ -145,3 +146,4 @@ https://github.com/ezshine/AwesomeSites-Pack03
 
 https://github.com/ezshine/AwesomeSites-Pack04
 
+https://github.com/ezshine/AwesomeSites-Pack05

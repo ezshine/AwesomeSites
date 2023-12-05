@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-function getNewestFileInDir(dirpath){
+function getRandomFileInDir(dirpath){
     // 读取文件夹中的文件列表
     let files = fs.readdirSync(dirpath, { withFileTypes: true });
     
@@ -19,7 +19,7 @@ function getNewestFileInDir(dirpath){
     fileTimes.sort((a, b) => b.time - a.time);
     
     // 打印已排序的文件列表
-    return fileTimes[0];
+    return fileTimes[Math.floor(Math.random()*fileTimes.length)];
 }
 
 async function main(){
@@ -31,20 +31,20 @@ async function main(){
     let regexp = /-[0-9]+-/g;
     readmeData = readmeData.replace(/-[0-9]+-/g,"-"+readRes.length+"-");
 
-    // update New Collected
+    // update Daily Show
 
-//     let newScreenshot = getNewestFileInDir(__dirname+"/../screenshot/");
+    let newScreenshot = getRandomFileInDir(__dirname+"/../screenshot/");
 
-//     let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
-//     let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
+    let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
+    let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
 
-//     regexp = /### New Collected([\s\S]*?)###/g
-//     readmeData = readmeData.replace(regexp,`
-// ### New Collected
+    regexp = /## Daily Show([\s\S]*?)## Index/g
+    readmeData = readmeData.replace(regexp,`
+## Daily Show
 
-// [![](./screenshot/${newScreenshot.name})](${newRepoUrl})
+[![](./screenshot/${newScreenshot.name})](${newRepoUrl})
 
-// ###`);
+## Index`);
 
     fs.writeFileSync(__dirname+"/../README.md",readmeData,"utf-8"); 
 }
