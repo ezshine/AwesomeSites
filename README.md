@@ -51,7 +51,6 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ### New Collected
 
-[![](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
 
 ### Car
 
