@@ -33,18 +33,18 @@ async function main(){
 
     // update New Collected
 
-    let newScreenshot = getNewestFileInDir(__dirname+"/../screenshot/");
+//     let newScreenshot = getNewestFileInDir(__dirname+"/../screenshot/");
 
-    let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
-    let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
+//     let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
+//     let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
 
-    regexp = /### New Collected([\s\S]*?)###/g
-    readmeData = readmeData.replace(regexp,`
-### New Collected
+//     regexp = /### New Collected([\s\S]*?)###/g
+//     readmeData = readmeData.replace(regexp,`
+// ### New Collected
 
-[![](./screenshot/${newScreenshot.name})](${newRepoUrl})
+// [![](./screenshot/${newScreenshot.name})](${newRepoUrl})
 
-###`);
+// ###`);
 
     fs.writeFileSync(__dirname+"/../README.md",readmeData,"utf-8"); 
 }
