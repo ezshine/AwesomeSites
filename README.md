@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-99-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-100-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -45,9 +45,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/esteelauderanrcade.jpg)](https://github.com/ezshine/AwesomeSites-esteelauderanrcade)
+[![](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com)
 
 ## Index
 
