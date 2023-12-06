@@ -8,7 +8,7 @@
 
 ---
 
-随着时间的推移，许多令人惊叹的网站可能会从互联网上消失。这就是为什么我创建了这个存储库来备份这些站点，以学习前端技术并激发我们的创造力。这个存储库中收集的网站数量将是巨大的，我将继续添加更多。不要忘记为这个存储库加注星标并在 `ProductHunt` 中投票。
+随着时间的推移，许多令人惊叹的网站可能会从互联网上消失。这就是为什么我创建了这个存储库来备份这些站点，以学习前端技术并激发我们的创造力。这个存储库中收集的网站数量将是巨大的，我将继续添加更多。不要忘记为这个仓库添加`star`并在 `ProductHunt` 中投票。
 
 <a href="https://www.producthunt.com/posts/awesome-sites?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;sites" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=428032&theme=light" alt="Awesome&#0032;Sites - Back&#0032;up&#0032;those&#0032;amazing&#0032;websites | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
