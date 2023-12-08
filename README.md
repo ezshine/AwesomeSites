@@ -48,9 +48,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/thefabulouscartierjourney.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/thefabulouscartierjourney.cartier.com)
+[![](./screenshot/fingerspelling.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/fingerspelling.xyz)
 
 ## Index
 
