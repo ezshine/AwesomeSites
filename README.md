@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-101-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-102-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -49,9 +49,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/fingerspelling.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/fingerspelling.xyz)
+[![](./screenshot/rainforest-arkivert.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/rainforest.arkivert.no)
 
 ## Index
 
@@ -111,7 +112,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com) | [![](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)| [![](./screenshot/chocapic-nutri-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.chocapic-nutri-game.fr)| [![](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no) |
 | [![](./screenshot/zizoparty.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/game/party.wearezizo.com) | [![](./screenshot/colorfulnight-pha5e.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/colorfulnight.pha5e.com) | [![](./screenshot/summerafternoon.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/summer-afternoon.vlucendo.com) | [![](./screenshot/out-of-doors-lostmechanics.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/out-of-doors.lostmechanics.com) |
 | [![](./screenshot/thefabulouscartierjourney.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/thefabulouscartierjourney.cartier.com) | [![](./screenshot/haunted-thedigitalpanda.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/haunted.thedigitalpanda.com) | [![](./screenshot/pcol.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/pcol) | [![](./screenshot/veecon2023game-veefriends.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/veecon2023game.veefriends.com) |
-| [![](./screenshot/esteelauderanrcade.jpg)](https://github.com/ezshine/AwesomeSites-esteelauderanrcade) | [![](./screenshot/plumegame.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/plumegame.com) | [![](./screenshot/goinghome-302chanwoo.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/goinghome.302chanwoo.com) 
+| [![](./screenshot/esteelauderanrcade.jpg)](https://github.com/ezshine/AwesomeSites-esteelauderanrcade) | [![](./screenshot/plumegame.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/plumegame.com) | [![](./screenshot/goinghome-302chanwoo.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/goinghome.302chanwoo.com) | [![](./screenshot/ispy-heihei-resn.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/ispy.heihei.resn.co)
 
 ## Space
 
