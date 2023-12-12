@@ -123,7 +123,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 |||||
 |-|-|-|-|
 | [![](./screenshot/spaceforce.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/www.spaceforce.com) | [![](./screenshot/robertsspaceindustries-starmap.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/robertsspaceindustries.com) | [![](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com) | [![](./screenshot/eyes-nasa-mars2020.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/eyes.nasa.gov)
-| [![](./screenshot/sigmasoftwarelabs.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/sigmasoftwarelabs.com) | [![](./screenshot/issdockingsimulator.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/iss-sim.spacex.com) |
+| [![](./screenshot/sigmasoftwarelabs.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/sigmasoftwarelabs.com) | [![](./screenshot/issdockingsimulator.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/iss-sim.spacex.com) | [![](./screenshot/cocosmos-online.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/cocosmos.online) |
 
 ## Others
 
