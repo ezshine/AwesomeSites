@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-105-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-106-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -41,17 +41,6 @@ If you have any fascinating websites you want to backup, please let me know and 
 | Twitter | Youtube | Bilibili | Wechat | 
 | - | - | - | - |
 | [![](https://img.shields.io/twitter/url/https/twitter.com/ezshine.svg?style=social&label=Follow%20%40ezshine)](https://twitter.com/ezshine) | [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCw4_T6ozlosiP_oja48DzbQ)](https://www.youtube.com/@awesomesites) | [![](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817) | [![](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack) |
-
-
-
-
-
-
-
-
-
-
-
 
 
 
