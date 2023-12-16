@@ -64,7 +64,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 |||||
 |-|-|-|-|
 | [![](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com) | [![](./screenshot/tjdi-exhibition2022.jpg)](https://github.com/ezshine/AwesomeSites-tjdi-exhibition) | [![](./screenshot/exp-infinite-passerella.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/exhibition/exp-infinite-passerella.lusion.co) | [![](./screenshot/vrshow-oss-dt-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/car/vrshow-oss.dt-space.cn/showroom) |
-| [![](./screenshot/af1hotel-koikreative.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/af1hotel.koikreative.com/)
+| [![](./screenshot/af1hotel-koikreative.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/af1hotel.koikreative.com/) | [![](./screenshot/anumberfromtheghost.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/room/www.anumberfromtheghost.com/)
 
 ### Portfolio
 
