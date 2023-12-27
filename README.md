@@ -59,9 +59,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/curious.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/curious.co)
+[![](./screenshot/cocosmos-online.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/cocosmos.online)
 
 ## Index
 
