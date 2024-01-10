@@ -72,9 +72,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/douyin-carnival-2022.jpg)](https://github.com/ezshine/AwesomeSites-douyin_carnival_2022)
+[![](./screenshot/media-facade-shiftlink.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/media-facade.shiftlink.tech)
 
 ## Index
 
