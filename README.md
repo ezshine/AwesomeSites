@@ -76,9 +76,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/sigmasoftwarelabs.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/sigmasoftwarelabs.com)
+[![](./screenshot/artisansdidees.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.artisansdidees.com)
 
 ## Index
 
