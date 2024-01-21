@@ -83,9 +83,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com)
+[![](./screenshot/thewebshowcase-withgoogle.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/thewebshowcase.withgoogle.com)
 
 ## Index
 
