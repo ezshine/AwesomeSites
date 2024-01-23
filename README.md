@@ -85,9 +85,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com)
+[![](./screenshot/hawls-loewe.png)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/howls.loewe.com)
 
 ## Index
 
