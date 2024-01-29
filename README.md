@@ -90,9 +90,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/anumberfromtheghost.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/room/www.anumberfromtheghost.com/)
+[![](./screenshot/akinokogomi.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/akinokogomi.vercel)
 
 ## Index
 
