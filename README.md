@@ -94,9 +94,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/oppoinno2021.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/metaverse/oppo_innoday2021)
+[![](./screenshot/zizoparty.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/game/party.wearezizo.com)
 
 ## Index
 
