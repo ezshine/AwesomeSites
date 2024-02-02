@@ -96,9 +96,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co)
+[![](./screenshot/playgl.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/play.gl)
 
 ## Index
 
