@@ -110,9 +110,10 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 
 
+
 ## Daily Show
 
-[![](./screenshot/iwantitall.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/iwantitall.msi.com)
+[![](./screenshot/foosballworldcup18.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.foosballworldcup18.com)
 
 ## Index
 
