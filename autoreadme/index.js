@@ -39,8 +39,7 @@ async function main(){
     let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
 
     regexp = /## Daily Show([\s\S]*?)## Index/g
-    readmeData = readmeData.replace(regexp,`
-## Daily Show
+    readmeData = readmeData.replace(regexp,`## Daily Show
 
 [![](./screenshot/${newScreenshot.name})](${newRepoUrl})
 
