@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/popmart-exhibition.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/metaverse/popmart2022)
+[![](./screenshot/themagicalpantry.jpg)](https://github.com/ezshine/AwesomeSites-themagicalpantry.com)
 
 ## Index
 
