@@ -2,6 +2,16 @@ const fs = require("fs");
 const path = require("path");
 
 
+function getFilesInDir(dirpath){
+    // 读取文件夹中的文件列表
+    let files = fs.readdirSync(dirpath, { withFileTypes: true });
+        
+    // 过滤出文件
+    const filteredFiles = files.filter(file => file.isFile());
+        
+    return filteredFiles;
+}
+
 function getRandomFileInDir(dirpath){
     // 读取文件夹中的文件列表
     let files = fs.readdirSync(dirpath, { withFileTypes: true });
@@ -23,7 +33,7 @@ function getRandomFileInDir(dirpath){
 }
 
 async function main(){
-    const readRes = fs.readdirSync(__dirname+"/../www/screenshot/")
+    const readRes = fs.readdirSync(__dirname+"/../screenshot/")
 
     // update Number of sites
     let readmeData = fs.readFileSync(__dirname+"/../README.md",{encoding:"utf-8"});
@@ -31,18 +41,19 @@ async function main(){
     let regexp = /-[0-9]+-/g;
     readmeData = readmeData.replace(/-[0-9]+-/g,"-"+readRes.length+"-");
 
+    let allScreenShots = getFilesInDir(__dirname+"/../screenshot/");
+    
     // update Daily Show
+    let randomshot = allScreenShots[Math.floor(Math.random()*allScreenShots.length)];
 
-    let newScreenshot = getRandomFileInDir(__dirname+"/../www/screenshot/");
-
-    let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
-    let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
+    let randomshotUrlExp = new RegExp("(?<="+randomshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
+    let randomshotRepoUrl = readmeData.match(randomshotUrlExp)[0];
 
     regexp = /## Daily Show([\s\S]*?)## Index/g
     readmeData = readmeData.replace(regexp,
 `## Daily Show
 
-[![](./www/screenshot/${newScreenshot.name})](${newRepoUrl})
+[![](./screenshot/${randomshot.name})](${randomshotRepoUrl})
 
 ## Index`);
 
