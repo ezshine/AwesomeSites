@@ -23,7 +23,7 @@ function getRandomFileInDir(dirpath){
 }
 
 async function main(){
-    const readRes = fs.readdirSync(__dirname+"/../screenshot/")
+    const readRes = fs.readdirSync(__dirname+"/../www/screenshot/")
 
     // update Number of sites
     let readmeData = fs.readFileSync(__dirname+"/../README.md",{encoding:"utf-8"});
@@ -33,15 +33,16 @@ async function main(){
 
     // update Daily Show
 
-    let newScreenshot = getRandomFileInDir(__dirname+"/../screenshot/");
+    let newScreenshot = getRandomFileInDir(__dirname+"/../www/screenshot/");
 
     let getRepoUrlExp = new RegExp("(?<="+newScreenshot.name+"\\)\\]\\()(.+?)(?=\\))","g")
     let newRepoUrl = readmeData.match(getRepoUrlExp)[0];
 
     regexp = /## Daily Show([\s\S]*?)## Index/g
-    readmeData = readmeData.replace(regexp,`## Daily Show
+    readmeData = readmeData.replace(regexp,
+`## Daily Show
 
-[![](./screenshot/${newScreenshot.name})](${newRepoUrl})
+[![](./www/screenshot/${newScreenshot.name})](${newRepoUrl})
 
 ## Index`);
 
