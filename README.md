@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-113-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-114-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/playgl.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/play.gl)
+[![](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com)
 
 ## Index
 
@@ -72,7 +72,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/bruno-simon.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/bruno-simon.com) | [![](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com) | [![](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co) | [![](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io) |
 | [![](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com) | [![](./screenshot/akinokogomi.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/akinokogomi.vercel) | [![](./screenshot/wearezizo.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/wearezizo.com) | [![](./screenshot/brettwilliams.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/www.brettwilliams.net)
 | [![](./screenshot/hle-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/hle.io) | [![](./screenshot/impossible-box.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/impossible-box.web.app) | [![](./screenshot/luni-app.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.luni-app) | [![](./screenshot/curious.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/curious.co) |
-| [![](./screenshot/artisansdidees.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.artisansdidees.com) | [![](./screenshot/activetheory.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/portfolio/activetheory.net)
+| [![](./screenshot/artisansdidees.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.artisansdidees.com) | [![](./screenshot/activetheory.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info) | [![](./screenshot/logartis.info.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info) 
 
 ### Metaverse
 
