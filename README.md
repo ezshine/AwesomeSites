@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/maxmara-bearinggifts.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/maxmara-bearinggifts.betteringbrands.com)
+[![](./screenshot/vrshow-oss-dt-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/car/vrshow-oss.dt-space.cn/showroom)
 
 ## Index
 
