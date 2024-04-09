@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/yelloworld.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/yelloworld.pinkyellow.com)
+[![](./screenshot/zizoparty.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/game/party.wearezizo.com)
 
 ## Index
 
