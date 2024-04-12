@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/girlswhocodegirls.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/tools/www.girlswhocodegirls.com)
+[![](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en)
 
 ## Index
 
