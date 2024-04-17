@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-118-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-119-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone)
+[![](./screenshot/toyotagazooracing.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/toyotagazooracing.com)
 
 ## Index
 
@@ -108,7 +108,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/zizoparty.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/game/party.wearezizo.com) | [![](./screenshot/colorfulnight-pha5e.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/colorfulnight.pha5e.com) | [![](./screenshot/summerafternoon.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/summer-afternoon.vlucendo.com) | [![](./screenshot/out-of-doors-lostmechanics.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/out-of-doors.lostmechanics.com) |
 | [![](./screenshot/thefabulouscartierjourney.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/thefabulouscartierjourney.cartier.com) | [![](./screenshot/haunted-thedigitalpanda.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/haunted.thedigitalpanda.com) | [![](./screenshot/pcol.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/pcol) | [![](./screenshot/veecon2023game-veefriends.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/veecon2023game.veefriends.com) |
 | [![](./screenshot/esteelauderanrcade.jpg)](https://github.com/ezshine/AwesomeSites-esteelauderanrcade) | [![](./screenshot/plumegame.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/plumegame.com) | [![](./screenshot/goinghome-302chanwoo.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/goinghome.302chanwoo.com) | [![](./screenshot/ispy-heihei-resn.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/ispy.heihei.resn.co)
-| [![](./screenshot/alexanderperrin-shorttrip.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/alexanderperrin.com.au) | [![](./screenshot/trollideliciouslydarkescape.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/trollideliciouslydarkescape.com) | [![](./screenshot/giga-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/giga.game)
+| [![](./screenshot/alexanderperrin-shorttrip.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/alexanderperrin.com.au) | [![](./screenshot/trollideliciouslydarkescape.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/trollideliciouslydarkescape.com) | [![](./screenshot/giga-game.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/giga.game) | [![](./screenshot/equinox-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/game/equinox.space)
 
 
 
