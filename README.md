@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/summerafternoon.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/summer-afternoon.vlucendo.com)
+[![](./screenshot/cocosmos-online.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/cocosmos.online)
 
 ## Index
 
