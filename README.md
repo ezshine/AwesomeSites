@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/futureofbeauty-loreal.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/e-commerce/futureofbeauty.loreal.com)
+[![](./screenshot/hape-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/www.hape.io)
 
 ## Index
 
