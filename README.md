@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com)
+[![](./screenshot/tjdi-exhibition2022.jpg)](https://github.com/ezshine/AwesomeSites-tjdi-exhibition)
 
 ## Index
 
