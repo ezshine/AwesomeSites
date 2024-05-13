@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-120-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-121-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/lionsnews.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/cannesprlions.com)
+[![](./screenshot/fragrance-hermes.png)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/fragrance.hermes.com)
 
 ## Index
 
@@ -73,7 +73,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/quentinhocde.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/quentinhocde.com) | [![](./screenshot/akinokogomi.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/akinokogomi.vercel) | [![](./screenshot/wearezizo.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/wearezizo.com) | [![](./screenshot/brettwilliams.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/www.brettwilliams.net)
 | [![](./screenshot/hle-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/hle.io) | [![](./screenshot/impossible-box.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/impossible-box.web.app) | [![](./screenshot/luni-app.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.luni-app) | [![](./screenshot/curious.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/curious.co) |
 | [![](./screenshot/artisansdidees.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.artisansdidees.com) | [![](./screenshot/activetheory.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info) | [![](./screenshot/logartis.info.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info) | [![](./screenshot/sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/www.sector32.net)
-[![](./screenshot/story-sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/story.sector32.net) 
+[![](./screenshot/story-sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/story.sector32.net)  | [![](./screenshot/nanoshrineinteractive.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/nanoshrineinteractive.com) 
 
 ### Metaverse
 
@@ -151,3 +151,5 @@ https://github.com/ezshine/AwesomeSites-Pack03
 https://github.com/ezshine/AwesomeSites-Pack04
 
 https://github.com/ezshine/AwesomeSites-Pack05
+
+https://github.com/ezshine/AwesomeSites-Pack06
