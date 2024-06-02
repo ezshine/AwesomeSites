@@ -4,7 +4,7 @@
 
 ![./title.gif](./title.gif)
 
-![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-121-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
+![Static Badge](https://img.shields.io/badge/Number%20of%20Sites-122-blue) ![Static Badge](https://img.shields.io/badge/Thanks%20all%20the%20wonderful%20website's%20creator-blue)
 
 ---
 
@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/hawls-loewe.png)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/howls.loewe.com)
+[![](./screenshot/2019-makemepulse.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/2019.makemepulse.com)
 
 ## Index
 
@@ -130,6 +130,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 | [![](./screenshot/hape-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/others/www.hape.io) | [![](./screenshot/renaudrohlinger.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/renaudrohlinger.com) | [![](./screenshot/thewebshowcase-withgoogle.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/thewebshowcase.withgoogle.com) | [![](./screenshot/girlswhocodegirls.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/tools/www.girlswhocodegirls.com) |
 | [![](./screenshot/qqpvp6749.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/pvp.qq.com) | [![](./screenshot/airforce-intothestorm.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/www.airforce.com) | [![](./screenshot/fingerspelling.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/fingerspelling.xyz) | [![](./screenshot/fwa100-jam3.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/portfolio/fwa100.jam3.com) |
 [![](./screenshot/lionsnews.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/cannesprlions.com) | [![](./screenshot/2019-makemepulse.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/2019.makemepulse.com) | [![](./screenshot/poor-charlies-almanack.jpg)](https://github.com/ezshine/AwesomeSites-poor-charlies-almanack) | [![](./screenshot/spherevegas.online.jpg)](https://spherevegas.online) 
+[![](./screenshot/virtual-cleverfarm.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/virtual.cleverfarm.ag) 
 
 ## Only4Mobile
 
