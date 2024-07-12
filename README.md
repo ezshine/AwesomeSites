@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party)
+[![](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com)
 
 ## Index
 
