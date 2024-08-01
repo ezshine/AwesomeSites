@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/douyin-carnival-2022.jpg)](https://github.com/ezshine/AwesomeSites-douyin_carnival_2022)
+[![](./screenshot/webxr-sneakers.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/e-commerce/webxr-sneakers.lusion.co)
 
 ## Index
 
