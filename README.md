@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/veecon2023game-veefriends.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/veecon2023game.veefriends.com)
+[![](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no)
 
 ## Index
 
