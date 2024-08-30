@@ -57,6 +57,7 @@ async function main() {
 
     let randomshotUrlExp = new RegExp("(?<=" + randomshot.name + "\\)\\]\\()(.+?)(?=\\))", "g")
     let randomshotRepoUrl = readmeData.match(randomshotUrlExp)[0];
+    
     let randomshotSiteUrl = randomshotRepoUrl.substr(randomshotRepoUrl.lastIndexOf("/")+1,999);
 
     regexp = /## Daily Show([\s\S]*?)## Index/g
@@ -76,12 +77,23 @@ async function main() {
     ]
     const adjective=adjectives[Math.floor(Math.random()*adjectives.length)]
     const nouns = [
-        "design",
+        "work",
         "experience",
-        "animation"
+        "animation",
+        "job"
     ]
     const noun=nouns[Math.floor(Math.random()*nouns.length)]
-    await createTweet(`https://${randomshotSiteUrl} ,${adjective} ${noun}, already backed up in ${randomshotRepoUrl} #AwesomeSites Daily Show`, `./screenshot/${randomshot.name}`);
+    await createTweet(getFormattedDate()+` #AwesomeSites Daily Show, ${randomshotSiteUrl} , ${adjective} ${noun}, already backed up in github.com/ezshine/AwesomeSites`, `./screenshot/${randomshot.name}`);
+}
+
+function getFormattedDate() {
+const now = new Date();
+const day = String(now.getDate()).padStart(2, '0'); // 确保日是两位数
+const month = String(now.getMonth() + 1).padStart(2, '0'); // 月份从0开始，所以加1
+const year = now.getFullYear(); // 获取四位数的年份
+
+// 格式化为“日/月/年”
+return `${day}/${month}/${year}`;
 }
 
 const consumerApiKey = process.env.CONSUMERAPIKEY;
@@ -131,6 +143,8 @@ async function uploadImage(imagePath) {
 
 // 创建带图片的推文
 async function createTweet(tweetText, imagePath) {
+    // console.log(tweetText);
+    // return;
     const mediaId = await uploadImage(imagePath);
     const url = 'https://api.twitter.com/2/tweets';
 
