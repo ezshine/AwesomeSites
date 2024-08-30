@@ -83,9 +83,15 @@ async function main() {
         "job"
     ]
     const noun=nouns[Math.floor(Math.random()*nouns.length)]
-    await createTweet(getFormattedDate()+` #AwesomeSites Daily Show, ${randomshotSiteUrl} , ${adjective} ${noun}, already backed up in github.com/ezshine/AwesomeSites`, `./screenshot/${randomshot.name}`);
+    await createTweet("🗓"+getFormattedDate()+' '+getRandomEmoji()+` #AwesomeSites Daily Show, ${randomshotSiteUrl} 😘, ${adjective} ${noun} 👍, already backed up in github.com/ezshine/AwesomeSites`, `./screenshot/${randomshot.name}`);
 }
 
+function getRandomEmoji() {
+    const start = 0x1F600; // Emoji 起始点
+    const end = 0x1F64F;   // Emoji 结束点
+    const randomCodePoint = Math.floor(Math.random() * (end - start + 1)) + start;
+    return String.fromCodePoint(randomCodePoint);
+}
 function getFormattedDate() {
 const now = new Date();
 const day = String(now.getDate()).padStart(2, '0'); // 确保日是两位数
