@@ -16,12 +16,21 @@ jobs:
   autoreadme:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install --prefix ./autoreadme
+
       - name: Run
+        env:
+          consumerApiKey: ${{secrets.consumerApiKey}}
+          consumerApiKeySecret: ${{secrets.consumerApiKeySecret}}
+          accessToken: ${{secrets.accessToken}}
+          accessTokenSecret: ${{secrets.accessTokenSecret}}
         run:
           node autoreadme/index.js
 
