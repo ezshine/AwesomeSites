@@ -1,0 +1,20 @@
+{
+  "name": "autoreadme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "formdata-node": "^6.0.3",
+    "got": "^14.4.2",
+    "oauth-1.0a": "^2.2.6",
+    "querystring": "^0.2.1"
+  }
+}
