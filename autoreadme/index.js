@@ -84,10 +84,10 @@ async function main() {
     await createTweet(`https://${randomshotSiteUrl} ,${adjective} ${noun}, already backed up in ${randomshotRepoUrl} #AwesomeSites Daily Show`, `../screenshot/${randomshot.name}`);
 }
 
-const consumerApiKey = process.env.consumerApiKey;
-const consumerApiKeySecret = process.env.consumerApiKeySecret;
-const accessToken = process.env.accessToken;
-const accessTokenSecret = process.env.accessTokenSecret;
+const consumerApiKey = process.env.CONSUMERAPIKEY;
+const consumerApiKeySecret = process.env.CONSUMERAPIKEYSECRET;
+const accessToken = process.env.ACCESSTOKEN;
+const accessTokenSecret = process.env.ACCESSTOKENSECRET;
 
 // 创建 OAuth 1.0a 实例
 const oauth = new OAuth({

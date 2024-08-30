@@ -27,10 +27,10 @@ jobs:
 
       - name: Run
         env:
-          consumerApiKey: ${{secrets.consumerApiKey}}
-          consumerApiKeySecret: ${{secrets.consumerApiKeySecret}}
-          accessToken: ${{secrets.accessToken}}
-          accessTokenSecret: ${{secrets.accessTokenSecret}}
+          CONSUMERAPIKEY: ${{secrets.CONSUMERAPIKEY}}
+          CONSUMERAPIKEYSECRET: ${{secrets.CONSUMERAPIKEYSECRET}}
+          ACCESSTOKEN: ${{secrets.ACCESSTOKEN}}
+          ACCESSTOKENSECRET: ${{secrets.ACCESSTOKENSECRET}}
         run:
           node autoreadme/index.js
 
