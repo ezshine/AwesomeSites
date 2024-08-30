@@ -81,7 +81,7 @@ async function main() {
         "animation"
     ]
     const noun=nouns[Math.floor(Math.random()*nouns.length)]
-    await createTweet(`https://${randomshotSiteUrl} ,${adjective} ${noun}, already backed up in ${randomshotRepoUrl} #AwesomeSites Daily Show`, `../screenshot/${randomshot.name}`);
+    await createTweet(`https://${randomshotSiteUrl} ,${adjective} ${noun}, already backed up in ${randomshotRepoUrl} #AwesomeSites Daily Show`, `./screenshot/${randomshot.name}`);
 }
 
 const consumerApiKey = process.env.CONSUMERAPIKEY;
