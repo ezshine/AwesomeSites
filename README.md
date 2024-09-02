@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/icbc-bj-miniverse.jpg)](https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse)
+[![](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)
 
 ## Index
 
