@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/persepolis-getty.jpg)](https://github.com/ezshine/AwesomeSite-persepolis.getty.edu)
+[![](./screenshot/zizoparty.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/game/party.wearezizo.com)
 
 ## Index
 
