@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/themagicalpantry.jpg)](https://github.com/ezshine/AwesomeSites-themagicalpantry.com)
+[![](./screenshot/activetheory.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info)
 
 ## Index
 
