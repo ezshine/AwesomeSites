@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/haunted-thedigitalpanda.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/haunted.thedigitalpanda.com)
+[![](./screenshot/equinox-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/game/equinox.space)
 
 ## Index
 
