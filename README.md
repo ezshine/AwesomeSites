@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/qqpvp6749.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/other/pvp.qq.com)
+[![](./screenshot/brettwilliams.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/www.brettwilliams.net)
 
 ## Index
 
