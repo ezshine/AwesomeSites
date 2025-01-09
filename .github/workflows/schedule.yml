@@ -22,8 +22,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: Install pnpm
+        run: npm install -g pnpm
+
       - name: Install dependencies
-        run: npm install --prefix ./autoreadme
+        run: pnpm install --prefix ./autoreadme
 
       - name: Run
         env:
