@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/activetheory.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/logartis.info)
+[![](./screenshot/lucyhardcastle-thefifthsense.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/lucyhardcastle-thefifthsense.i-d.co)
 
 ## Index
 
