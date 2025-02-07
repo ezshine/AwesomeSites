@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/giftfinder-dolcegabbana.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/e-commerce/giftfinder.dolcegabbana.com)
+[![](./screenshot/artisansdidees.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/www.artisansdidees.com)
 
 ## Index
 
