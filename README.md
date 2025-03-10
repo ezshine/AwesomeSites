@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/mi-su7.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/car/mi-su7)
+[![](./screenshot/story-sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/story.sector32.net)
 
 ## Index
 
