@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/www.sector32.net)
+[![](./screenshot/windflower.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/wildflower.resn.co.nz)
 
 ## Index
 
