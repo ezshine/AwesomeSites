@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/exp-gemini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/exp-gemini.lusion.co)
+[![](./screenshot/futureofbeauty-loreal.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/e-commerce/futureofbeauty.loreal.com)
 
 ## Index
 
