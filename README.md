@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/hennessy-house-of-moves.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/hennessy-house-of-moves.hello-jury.com)
+[![](./screenshot/anumberfromtheghost.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/room/www.anumberfromtheghost.com/)
 
 ## Index
 
