@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/interview-ueno.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/interview.ueno.co)
+[![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone)
 
 ## Index
 
