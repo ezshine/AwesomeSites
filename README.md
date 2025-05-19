@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/iconicmintswsjbarrons.jpg)](https://github.com/ezshine/AwesomeSites-iconicmints.wsjbarrons.com)
+[![](./screenshot/sector32-net.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/portfolio/www.sector32.net)
 
 ## Index
 
