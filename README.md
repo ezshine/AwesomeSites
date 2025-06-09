@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/hle-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/portfolio/hle.io)
+[![](./screenshot/therace.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/therace.montblanclegend.com)
 
 ## Index
 
