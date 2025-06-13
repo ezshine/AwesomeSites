@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/labs-otherlife-xyz-virtualcar.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/car/labs.otherlife.xyz)
+[![](./screenshot/2019-makemepulse.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/2019.makemepulse.com)
 
 ## Index
 
