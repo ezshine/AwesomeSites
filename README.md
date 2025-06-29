@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/leap-for-mankind.jpg)](https://github.com/ezshine/AwesomeSites-leap-for-mankind.com)
+[![](./screenshot/girlswhocodegirls.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/tools/www.girlswhocodegirls.com)
 
 ## Index
 
