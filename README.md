@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/wonderland.png)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/wonderland)
+[![](./screenshot/turnofthescrewtrailer.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com)
 
 ## Index
 
