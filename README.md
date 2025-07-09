@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/adobexbowie.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/adobexbowie75.com)
+[![](./screenshot/webgi-jewelry.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/webgi-jewelry.vercel)
 
 ## Index
 
