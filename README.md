@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/vrseat.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/vrseat.vercel)
+[![](./screenshot/haunted-thedigitalpanda.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/haunted.thedigitalpanda.com)
 
 ## Index
 
