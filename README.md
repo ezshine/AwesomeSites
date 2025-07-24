@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/pcol.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/pcol)
+[![](./screenshot/foosballworldcup18.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/www.foosballworldcup18.com)
 
 ## Index
 
