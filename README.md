@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/equinox-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/game/equinox.space)
+[![](./screenshot/eyes-nasa-mars2020.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/space/eyes.nasa.gov)
 
 ## Index
 
