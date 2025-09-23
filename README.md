@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/kaizen-makemepulse.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/kaizen.makemepulse.com)
+[![](./screenshot/adobexbowie.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/adobexbowie75.com)
 
 ## Index
 
