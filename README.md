@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/microwaver59.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/microwaver59.com)
+[![](./screenshot/au-floor.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/room/au-floor.vercel.app)
 
 ## Index
 
