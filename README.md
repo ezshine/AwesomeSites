@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/kodingergoy.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/kodingergoy.arkivert.no)
+[![](./screenshot/thewebshowcase-withgoogle.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/thewebshowcase.withgoogle.com)
 
 ## Index
 
