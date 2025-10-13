@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/orion-adrianred-com.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/metaverse/orion.adrianred.com)
+[![](./screenshot/icbc-bj-miniverse.jpg)](https://github.com/ezshine/AwesomeSites-icbc-bj-metaverse)
 
 ## Index
 
