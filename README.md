@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/mi-su7.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/car/mi-su7)
+[![](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com)
 
 ## Index
 
