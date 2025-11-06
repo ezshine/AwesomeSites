@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/virtual-cleverfarm.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/virtual.cleverfarm.ag)
+[![](./screenshot/thefemalegaze.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thefemalegaze.art)
 
 ## Index
 
