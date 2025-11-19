@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/wearezizo.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/wearezizo.com)
+[![](./screenshot/goinghome-302chanwoo.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/goinghome.302chanwoo.com)
 
 ## Index
 
