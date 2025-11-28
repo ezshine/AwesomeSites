@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/lionsnews.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/cannesprlions.com)
+[![](./screenshot/virtual-cleverfarm.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/virtual.cleverfarm.ag)
 
 ## Index
 
