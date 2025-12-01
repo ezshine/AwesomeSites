@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/kokuyo-com.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/www.kokuyo.com)
+[![](./screenshot/fwa100-jam3.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/portfolio/fwa100.jam3.com)
 
 ## Index
 
