@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/trollideliciouslydarkescape.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/trollideliciouslydarkescape.com)
+[![](./screenshot/cocosmos-online.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/space/cocosmos.online)
 
 ## Index
 
