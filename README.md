@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/wearezizo.jpg)](https://github.com/ezshine/AwesomeSites-Pack03/tree/main/portfolio/wearezizo.com)
+[![](./screenshot/expmylittlestorybook.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/game/exp-my-little-storybook.lusion.co)
 
 ## Index
 
