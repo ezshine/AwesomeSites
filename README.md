@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/dddanceparty.jpg)](https://github.com/ezshine/AwesomeSite-dddance.party)
+[![](./screenshot/ispy-heihei-resn.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/ispy.heihei.resn.co)
 
 ## Index
 
