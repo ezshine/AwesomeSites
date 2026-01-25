@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/thewebshowcase-withgoogle.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/thewebshowcase.withgoogle.com)
+[![](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)
 
 ## Index
 
