@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com)
+[![](./screenshot/ispy-heihei-resn.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/ispy.heihei.resn.co)
 
 ## Index
 
