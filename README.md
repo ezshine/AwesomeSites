@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/pinball-cosmicshelter-com.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/games/pinball.cosmicshelter.com)
+[![](./screenshot/letsplay-ouigo.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/letsplay.ouigo.com)
 
 ## Index
 
