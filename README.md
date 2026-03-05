@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/avatarbuilder.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/other/avatarbuilder)
+[![](./screenshot/nouvelletwingo-renault.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/car/www.experience-nouvelletwingo.renault.fr)
 
 ## Index
 
