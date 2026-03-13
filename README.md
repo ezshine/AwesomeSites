@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/poor-charlies-almanack.jpg)](https://github.com/ezshine/AwesomeSites-poor-charlies-almanack)
+[![](./screenshot/anumberfromtheghost.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/room/www.anumberfromtheghost.com/)
 
 ## Index
 
