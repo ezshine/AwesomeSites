@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/theperfumeshop.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/e-commerce/www.theperfumeshop.com)
+[![](./screenshot/noomobeat.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/beat.noomoagency.com)
 
 ## Index
 
