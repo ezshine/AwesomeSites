@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/spaceforce.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/minisite/www.spaceforce.com)
+[![](./screenshot/ellometay33art.png)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/room/ellometay33art)
 
 ## Index
 
