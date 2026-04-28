@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/samsy-ninja.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/metaverse/samsy.ninja)
+[![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone)
 
 ## Index
 
