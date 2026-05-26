@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/lr-doesbook.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/lr.doesbook.kr/en)
+[![](./screenshot/pack01-lamborghini.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/car/www.lamborghini.com)
 
 ## Index
 
