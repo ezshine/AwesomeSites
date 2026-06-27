@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/hawls-loewe.png)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/howls.loewe.com)
+[![](./screenshot/douyin-carnival-2022.jpg)](https://github.com/ezshine/AwesomeSites-douyin_carnival_2022)
 
 ## Index
 
