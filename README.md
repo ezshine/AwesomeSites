@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/fragrance-hermes.png)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/game/fragrance.hermes.com)
+[![](./screenshot/lionsnews.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/other/cannesprlions.com)
 
 ## Index
 
