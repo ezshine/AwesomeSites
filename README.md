@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/madbox-io.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/madbox.io)
+[![](./screenshot/thepleasurepursuit.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/www.thepleasurepursuit.com)
 
 ## Index
 
