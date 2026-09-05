@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/media-facade-shiftlink.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/media-facade.shiftlink.tech)
+[![](./screenshot/design-next-iphone.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/other/neal.fun%3Adesign-the-next-iphone)
 
 ## Index
 
