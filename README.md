@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/noomobeat.jpg)](https://github.com/ezshine/AwesomeSites-Pack06/tree/main/other/beat.noomoagency.com)
+[![](./screenshot/david-hckh.jpg)](https://github.com/ezshine/AwesomeSites-Pack01/tree/main/portfolio/david-hckh.com)
 
 ## Index
 
